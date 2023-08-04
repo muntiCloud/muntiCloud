@@ -45,7 +45,7 @@ I'm software developer, I'm passionate working in both start up and enterprise t
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-# Contact 
+## Contact 
 
 <div id="badges">
   <a href="your-linkedin-URL">
