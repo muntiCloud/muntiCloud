@@ -5,22 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m open to contribute to open sorces  
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif
-
 
 
 
 # Experience 
-
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -43,15 +35,7 @@ https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif
 
 
 
-
-
-
-
-
-## Python/Django
-<div style="background-color:#3572A5; color:white; padding:10px;">
-I have a rich experience in Django, developing dynamic web applications for various domains. I have worked on ORM, database migrations, Django forms, Django REST Framework, and various Django packages that boost the application's functionality. I've also developed various APIs using Django REST Framework.
-</div>
+# 
 
 ## JavaScript
 <div style="background-color:#F7DF1E; color:black; padding:10px;">
