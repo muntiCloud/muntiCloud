@@ -21,6 +21,7 @@ I'm software developer, I'm passionate to in both start up and enterprise to bri
 
 # Experience 
 <div  id="badges">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Flutter" width="40" height="40"/>&nbsp;
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   </a>
