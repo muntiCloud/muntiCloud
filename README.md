@@ -8,7 +8,7 @@
 
 # About Me 
 
-I'm software developer, I'm passionate to in both start up and enterprise to bring new ideas.
+I'm software developer, I'm passionate working in both start up and enterprise that brings a new ideas.
 - 👯 I’m open to contribute to open sorces, and collabrate. 
  > "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
 - 📫 Have Fun: ...
