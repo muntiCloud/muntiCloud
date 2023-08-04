@@ -1,9 +1,8 @@
-### Welcome 
+### Welcome  :wave::earth_africa:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="600"/>
 </div>
-# Hello, World! :wave::earth_africa:
 
 # About Me 
 
