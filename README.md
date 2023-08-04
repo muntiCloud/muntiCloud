@@ -33,10 +33,12 @@ I'm software developer, I'm passionate to in both start up and enterprise to bri
    <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Django-red?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
   </a>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Docker-blue?style=for-the-docker&logo=python&logoColor=white" alt="Docker Badge"/>
   </a> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
   </a>
