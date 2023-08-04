@@ -24,6 +24,20 @@ I'm software developer, I'm passionate to in both start up and enterprise to bri
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/React-yellow?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Docker-yellow?style=for-the-docker&logo=python&logoColor=white" alt="Docker Badge"/>
+  </a>
+
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  </a>
+
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+  </a>
 </div>
 
 # Experience 
