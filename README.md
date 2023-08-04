@@ -31,7 +31,9 @@ I'm software developer, I'm passionate to in both start up and enterprise to bri
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Docker-blue?style=for-the-docker&logo=python&logoColor=white" alt="Docker Badge"/>
-  </a>  <a href="your-twitter-URL">
+  </a> 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
   </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -39,6 +41,7 @@ I'm software developer, I'm passionate to in both start up and enterprise to bri
     <img src="https://img.shields.io/badge/Html5-red?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge"/>
   </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
 
 # Experience 
