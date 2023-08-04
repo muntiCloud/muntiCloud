@@ -19,14 +19,15 @@ I'm software developer, I'm passionate to in both start up and enterprise to bri
   </a>
 </div>
 
-
-
 # Experience 
-<div>
+<div  id="badges">
    <a href="your-twitter-URL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Flutter" alt="Twitter Badge"/>
   </a>
 </div>
+
+# Experience 
+
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Flutter" width="40" height="40"/>&nbsp;
