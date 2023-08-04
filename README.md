@@ -1,10 +1,8 @@
 ### Hi there 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/your_username?label=Follow)
 
-![Banner][(https://link-to-your-image](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif))
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="600"/>
 </div>
 # Hello, World! :wave::earth_africa:
 
