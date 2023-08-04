@@ -25,14 +25,14 @@ I'm software developer, I'm passionate to in both start up and enterprise to bri
     <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/React-yellow?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Docker-yellow?style=for-the-docker&logo=python&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-docker&logo=python&logoColor=white" alt="Docker Badge"/>
   </a>
 
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Html5-red?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge"/>
   </a>
 
   <a href="your-twitter-URL">
