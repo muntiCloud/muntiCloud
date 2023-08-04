@@ -3,6 +3,9 @@
 
 ![Banner][(https://link-to-your-image](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif))
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100"/>
+</div>
 # Hello, World! :wave::earth_africa:
 
 # About Me 
