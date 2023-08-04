@@ -4,11 +4,14 @@
   <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="600"/>
 </div>
 
+
+
 # About Me 
 
 I'm software developer, I'm passionate to in both start up and enterprise to bring new ideas.
 - 👯 I’m open to contribute to open sorces  
-- 💬 Ask me about ...
+- 💬 > "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
+
 - 📫 Have Fun: ...
 
 # Experience 
