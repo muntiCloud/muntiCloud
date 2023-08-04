@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+# About Me 
+
+I'm software developer, I'm passionate to in both start up and enterprise to bring new ideas.
 - 👯 I’m open to contribute to open sorces  
 - 💬 Ask me about ...
 - 📫 Reach me: ...
