@@ -16,6 +16,31 @@ Here are some ideas to get you started:
 -->
 https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif
 
+
+
+
+# Experience 
+
+## Python/Django
+<div style="background-color:#3572A5; color:white; padding:10px;">
+I have a rich experience in Django, developing dynamic web applications for various domains. I have worked on ORM, database migrations, Django forms, Django REST Framework, and various Django packages that boost the application's functionality. I've also developed various APIs using Django REST Framework.
+</div>
+
+## JavaScript
+<div style="background-color:#F7DF1E; color:black; padding:10px;">
+In JavaScript, I have good knowledge and hands-on experience with ES6 features, async programming, and various front-end technologies. I have implemented real-time features using WebSockets and developed Single Page Applications (SPAs) with AJAX and Fetch API.
+</div>
+
+## Microservices
+<div style="background-color:#833471; color:white; padding:10px;">
+In microservices, I have created multiple independent services with their own DB to avoid any kind of application failure. I've designed inter-communication between microservices through HTTP Rest APIs and Message Queues.
+</div>
+
+## REST A
+
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
 </div>
