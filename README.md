@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/your_username?label=Follow)
+
+![Banner](https://link-to-your-image)
 
 
 # About Me 
