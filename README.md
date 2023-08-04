@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Twitter Follow](https://img.shields.io/twitter/follow/your_username?label=Follow)
 
-![Banner](https://link-to-your-image)
+![Banner][(https://link-to-your-image](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif))
 
 # Hello, World! :wave::earth_africa:
 
