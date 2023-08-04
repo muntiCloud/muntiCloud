@@ -29,6 +29,9 @@ I'm software developer, I'm passionate to in both start up and enterprise to bri
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
+   <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Django-red?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Docker-blue?style=for-the-docker&logo=python&logoColor=white" alt="Docker Badge"/>
   </a> 
